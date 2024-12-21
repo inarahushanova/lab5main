@@ -1,0 +1,5 @@
+Skript İcra Prosesi
+Regex ilə Log Analizi: Log faylından URL-ləri və status kodlarını çıxarır.
+404-ləri Ayırmaq: 404 status kodu ilə olan URL-ləri ayrıca sayır və qeyd edir.
+Qara Siyahıdan Uyğunluq: Qara siyahıya alınmış domenləri HTML-dən çıxarır və jurnal URL-ləri ilə müqayisə edir.
+JSON və CSV: Uyğunluğu göstərən məlumatlar JSON və CSV formatında saxlanır.
